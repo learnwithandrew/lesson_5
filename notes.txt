@@ -1,0 +1,10 @@
+Async/Await try/catch
+fetch().then(response => response.json()).then((data))
+
+async function <function_name> {
+    try{
+
+    }catch(error){
+        
+    }
+}

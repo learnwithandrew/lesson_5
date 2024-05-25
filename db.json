@@ -1,0 +1,23 @@
+{
+  "cars": [
+    {
+      "id": "20fe",
+      "carName": "Mercedes Benz Car",
+      "carImage": "https://www.mercedes-benz-kenya.com/media/domain/pages/slides/graph/889-wallpaper.jpg",
+      "carDetails": "This is a mercedes benz.",
+      "carId": "20fe"
+    },
+    {
+      "id": "ddb1",
+      "carName": "Lamborghini",
+      "carImage": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/models_gw/2023/03_29_revuelto/gate_models_s_02_m.jpg",
+      "carDetails": "This is a lamborghini"
+    },
+    {
+      "id": "7ab4",
+      "carName": "bugatti",
+      "carImage": "https://newsroom.cdn.bugatti-media.com/f014c3ff-2a67-4034-912a-2028aa1841aa/lg",
+      "carDetails": "This is a bugatti."
+    }
+  ]
+}
